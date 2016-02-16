@@ -22,8 +22,8 @@ explicitly:
      function f has been given a definition of the form f (x, y, z) =
      ...
    + a better notation which doesn't rely on the names given to the
-     arguments was popularised by Landau in @landau1934einführung
-     (English edition @landau2001differential): D₁ for the partial
+     arguments was popularised by Landau in [@landau1934einführung]
+     (English edition [@landau2001differential]): D₁ for the partial
      derivative with respect to x₁, etc.
 
    + Exercise: for f : ℝ² → ℝ define D₁ and D₂ using only D.
@@ -154,4 +154,3 @@ right-hand 0 is the constant function
 
 References
 ----------
-* [@sussman2013functional]
